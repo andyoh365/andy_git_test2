@@ -1,0 +1,2 @@
+newDevFile.txt has been added after merging of feature1
+
